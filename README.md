@@ -8,8 +8,6 @@
  If the SDKs are missing, you can download them from the official Windows website (https://developer.microsoft.com/en-us/windows/downloads/windows-10-sdk) or install the tool kits via Visual Studio Installer.
  *An example image is stored here (https://github.com/codieorberson/NVSHR/blob/master/src/pics/SDKs.png).*
  
- *If an IDE is being used, ensure that Cmake is installed before installing dlib.*
- 
  For Windows machines, please follow these steps to set up your environment for the NVSHR System:
 
 1. Install Python3.7 (https://www.python.org/downloads/)
@@ -18,7 +16,6 @@
    + `pip install numpy`
    + `pip install opencv-python`
    + `pip install Cmake`
-   + `pip install dlib`
    + `pip install scipy`
    + `pip install Pillow`
    + `pip install TPLink`
@@ -39,7 +36,6 @@
    + `pip install numpy`
    + `pip install opencv-python`
    + `pip install Cmake`
-   + `pip install dlib`
    + `pip install scipy`
    + `pip install Pillow`
    + `pip install TPLink`
